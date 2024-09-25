@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2317ea32-f758-4e56-887b-7e0853e911b8). 🔝Header Update :
+. 🔝Header Update :
   + Added User Panel Logo In Header
     + Added A Hamburger Menu
     + Added A User's Profile Photo
@@ -39,6 +39,7 @@
       + ![image](https://github.com/user-attachments/assets/5e414dcf-5424-4dab-bf53-d3f40d0003c6)
       + ![image](https://github.com/user-attachments/assets/c925c4df-a7ad-4444-acb7-c74f6a97bfa3)
       + ![image](https://github.com/user-attachments/assets/bbe29ee5-dfb5-4557-9a51-91773191bfd7)
+      + ![image](https://github.com/user-attachments/assets/2317ea32-f758-4e56-887b-7e0853e911b8)
   + Favorites Tab
   + Saved Search Tab
   + My invoices Tab
